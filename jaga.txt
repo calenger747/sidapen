@@ -1,0 +1,29 @@
+<p>
+							<table border ="1">
+								<tr>
+									<td>&nbsp;No&nbsp;| </td>
+									<td>&nbsp;RT&nbsp;| </td>
+									<td>&nbsp;Jumlah Penduduk&nbsp;| </td>
+									<td>&nbsp;Pria&nbsp;| </td>
+									<td>&nbsp;Wanita&nbsp;| </td>
+									<td>&nbsp;Kawin&nbsp;| </td>
+									<td>&nbsp;Belum Kawin&nbsp;| </td>
+									<td>&nbsp;Balita&nbsp;| </td>
+									<td>&nbsp;Anak di Atas 5 Tahun&nbsp;| </td>
+									<td>&nbsp;17 Tahun ke Atas&nbsp;| </td>
+									<td>&nbsp;60 Tahun ke Atas&nbsp; </td>
+								</tr>
+								<tr>
+									<td>&nbsp;10&nbsp;| </td>
+									<td>&nbsp;10&nbsp;| </td>
+									<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| </td>
+									<td>&nbsp;100&nbsp;| </td>
+									<td>&nbsp;100&nbsp;| </td>
+									<td>&nbsp;100&nbsp;| </td>
+									<td>&nbsp;100&nbsp;| </td>
+									<td>&nbsp;100&nbsp;| </td>
+									<td>&nbsp;100&nbsp;| </td>
+									<td>&nbsp;100&nbsp;| </td>
+									<td>&nbsp;100&nbsp; </td>
+								</tr>
+							</table>

@@ -1,0 +1,5 @@
+[06-Sep-2017 11:28:37 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 93323264 bytes) in /home/k0762615/public_html/sidapen/system/core/Exceptions.php on line 185
+[06-Sep-2017 11:48:14 Asia/Jakarta] PHP Fatal error:  Call to a member function format() on a non-object in /home/k0762615/public_html/sidapen/application/views/v_rt_pemilu.php on line 65
+[18-Nov-2017 04:50:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/k0762615/public_html/sidapen/system/database/drivers/mysql/mysql_result.php on line 167
+[18-Nov-2017 04:51:05 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 83 bytes) in /home/k0762615/public_html/sidapen/system/database/drivers/mysql/mysql_result.php on line 167
+[24-Nov-2017 09:19:12 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/k0762615/public_html/sidapen/system/database/drivers/mysql/mysql_result.php on line 167

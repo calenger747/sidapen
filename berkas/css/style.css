@@ -1,0 +1,29 @@
+.body{
+	background: #ddd;
+}
+
+.navbar-custom{
+	background: #0088ff;
+	box-shadow: 0 0 4px #555;
+}
+
+.navbar-inverse{
+	box-shadow: 0 0 4px #555;
+}
+
+.bg-login{
+    background: rgba(255,255,255,.5);
+    border-radius: 4px;
+}
+
+.asterisk{
+    color: red;
+}
+
+.cursor{
+	cursor: pointer;
+}
+
+.disnone{
+	display: none;
+}
